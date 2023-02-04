@@ -1,5 +1,22 @@
 # Spring 2023 VIP - Machine Learning for Financial Market
 ## Qing Claire Dong's Notebook
+
+### Week 4, Feb 3
+In class, we were forming teams. I decided my research interest would be on analyzing external factors of the stock market.  
+Team meeting time: Friday 5 pm.
+
+### Week 3, Jan 27
+1/22 Research proposal completed
+
+I was always trying to think about what factors determine one's gains and losses from the financial market, which is also to say, which factors act on stock prices and buy/sell actions. In an overly idealized situation, I wish to uncover a formula, which is a linear or non-linear combination of multiple factors, and that formula tells us if we should buy/sell a stock. Therefore I am interested in selecting factors/trading strategies as my broad research topic.
+
+As I researched potentially useful financial metrics, I noticed Research and Development (R&D) Expenditure (Note: I was also interested in risk levels, but as SEC does not require risk factors to be in XBRL form, this restrain us from getting sufficient data.). Some articles present that high expenditure not necessarily indicates good performance, while some research demonstrated the high rate of return to invest in R&D. Some also indicate that it depends on sectors. If worth delving deeper into, my research question would be: Do companies' R&D Expenditures have correlations with stock prices, either in the short or long term?
+
+There are two kinds of data sources I need, which would be price and company R&D data. For price data, I could use Yahoo finance to access daily close prices. For the latter one, I would use XBRL US to extract information on 10-K forms. Possible variables would be R&D cost amount, time, and sector.
+
+One of the tools I would use would be machine learning, outputting future prices according to input variables. I would also like to learn about how to apply statistics in finance and be able to test whether a factor is significant for stock prices. Also, I am willing to know more about the existing research on finance and ML and be able to build upon those research.  
+
+1/25 Programming HW revised
 ### Week 2, Jan 20  
 1/17 Programming HW completed  
 1/18 XBRL account & credential requested 
