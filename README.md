@@ -1,5 +1,54 @@
 # Spring 2023 VIP - Machine Learning for Financial Market
 ## Qing Claire Dong's Notebook
+### Week 5, Feb 10
+In class, we discussed multiple cash flow models
+Group meeting one: formed two subteams -- stocks prediction using company earning and use external factors. Each subteam would try to replicate a relavant paper for the coming weeks.  
+  
+Notes for Bootcamp videos, Accounting I & II  
+Three type of Accounting
+- Financial accounting: 
+    - US GAAP, FASB responsible for setting US GAAP, SEC monitor FASB. Other countries use IFRS for standards
+    - 10-K, 10-Q
+    - to external user(investor, creditors, suppliers, customers)
+    - Assess the timing, amounts and uncertainty of future cash flows
+    - Balance sheet(point in time, assets = liabilities + equity), Income statement(period of time, SE_t = SE_(t-1)+ NI - Dividends + shares issued - share repurchased), cash flow statement(period, operating(direct/indirect90% methods)), notes, audit option
+            - Notes: general information, specificity, info related but not yet recognoized
+    - Additional requirement: 10-Q, 8-K(major events), proxy statement(stockholder’s right), additional 
+- Managerial accounting: to internal user(used for asset management)
+- Tax accounting: to tax authorities(IRS)
+- Exercise - prepare the balance sheet for the baron
+    - Assumptions of reporting model(separate entity, periodicity, monetary units, going concern(go bankrupt?))
+    - Balance sheet: Asset: wheat, ox, land, plow…; Liabilities: payable, owner investment, earnings
+    - Income statement: Revenue, Expenses
+    - Statement of changes in shareholder equity: Beginning value, net income, dividend payment
+    - Metrics to determine who performs better: ROE, yield, profit margin
+
+Part 2, mechanics of FA
+- Assets
+    - Liability + equity
+    - Changes in net assets: investment by owners(changes in contributed capital), comprehensive income(revenue-expense), disbursement to owner(changed in earned captial)
+- Journal entries and t-accounts: Debits = Credits
+- Posting: updating account balances to reflect events recorded in the general journal
+- The Debit-Credit Framework
+    - Any transaction requires: adjustments to at least two accounts; at least 1 debit and 1 credit
+    - debit + on the left, credit - on the right
+    - Exerise
+        - Invest 10000 to start  new business: Dr. Cash 10k; Cr. Equity
+        - Paid 900 in cash for gift basket: Cash, Inventory credit
+        - Paid 800 rent: cash, prepaid rent credit
+        - Bought 400 equipment: cash, equipment credit, inventory debit
+        - Sold 2200 gift basket: Accounts Receivable; Revenue 2.2k
+        - Bought 1500 straw to make basket on credit payable in 90 days: inventory debit, account payable credit
+        - Found had 1800 supplies remaining
+        - Collected 400 from her credit sales: cash debit, accounts receivable credit
+
+Part 3, statement of cash flows  
+        - Financing activities  
+            - Inflows: cash from sales, borrowing  
+            - outflows: cash to owners, retire stock, repay principal   
+        - Operating  
+            - Inflow: customers, revenue, dividend from investment  
+            - Outflows: purchase, operating expenses, interest on debt, income taxes
 
 ### Week 4, Feb 3
 In class, we were forming teams. I decided my research interest would be on analyzing external factors of the stock market.  
