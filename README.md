@@ -1,5 +1,43 @@
 # Spring 2023 VIP - Machine Learning for Financial Market
 ## Qing Claire Dong's Notebook
+### Week 7, Feb 24
+Guest speaker in class
+### Week 6, Feb 17
+Valuation Basics Notes
+- Methods of valuation
+    - Relative/comparable firm
+        - Identify comparable assets
+        - Convert market values into standardized values
+            - Using earning multiples(PE - price per share/earnings per share), book value, revenue, 
+        - Controlling difference between firms
+        - Too subjective, difference still exist
+    - DCF
+        - Intrinsic valuation(+expected cash flows)
+        - Start from dividend discount model, divided both sides by earning per share -> FCFE model
+        - Higher PE rations: higher growth firms, lower risk firms, lower reinvestment needs(actually not that reliable)
+        - Value/earning, value/cash flow
+    - Real Options
+    - Simulations  
+      
+Accessing finance and economic data Notes
+- WRDS
+    - Finance / accounting data
+        - Company financial statement, stock related data
+        - Sources: fillings, trading price, industry specific, events and transactions, institutional investors, firm behavior
+        - COMPUSTAT: US&CA, global, annual/quarterly/monthly/daily
+            - Example: search Wharton compustat
+            - Using python 
+                - Pip install words
+                - .get_table
+        - CRSP: stock market data
+        - Institutional ownership data(Those-Reuters)
+        - Bank regulatory data
+        - Fixed income: FINRA requirement, Municipal bonds(Bloomberg)
+        - Others: dealscan(commercial loan), execucomp(executives’ salary), institutional brokers, ravenpack
+        - Econ data - FRED St. Louis
+        - Cartography: starupcartography.com
+        - County-level and related: eg. consumerfinance.com
+
 ### Week 5, Feb 10
 In class, we discussed multiple cash flow models
 Group meeting one: formed two subteams -- stocks prediction using company earning and use external factors. Each subteam would try to replicate a relavant paper for the coming weeks.  
