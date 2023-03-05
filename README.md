@@ -1,5 +1,12 @@
 # Spring 2023 VIP - Machine Learning for Financial Market
 ## Qing Claire Dong's Notebook
+### Week 8, Mar 3
+Weekly team meetings:
+1. Discussed the paper we would like to replicate: https://onlinelibrary.wiley.com/doi/epdf/10.1111/1475-679X.12429
+2. Saniya and Johnny: introduction, rest of us: timeline
+3. Finish indivudual paragraphs by Wednesday
+4. Finish literature review by Thursday: [Link to shared sheets](https://gtvault-my.sharepoint.com/:x:/g/personal/ssavla30_gatech_edu/EZYnl749yj5BsbG2dMM01woB20z7OMseI7b99zkw4pd5Hw?e=83fvha)
+
 ### Week 7, Feb 24
 Guest speaker in class
 ### Week 6, Feb 17
