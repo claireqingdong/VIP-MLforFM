@@ -1,11 +1,23 @@
 # Spring 2023 VIP - Machine Learning for Financial Market
 ## Qing Claire Dong's Notebook
+### Week 10, Mar 17
+TO do: Notebook refinement and group wiki: https://docs.google.com/document/d/1wl8CLVBFqubGVbn54VbFL7NfsJuiPCnuhugvupUEz7A/edit  
+Tasks assigned: Summary part of wiki, finish by Mar 27th
+
+### Week 9, Mar 10
+Group presentaion, link: 
+As we are not having XBRL keys yet, the goal of our group this week is to read over the paper throughly. 
+
 ### Week 8, Mar 3
 Weekly team meetings:
 1. Discussed the paper we would like to replicate: https://onlinelibrary.wiley.com/doi/epdf/10.1111/1475-679X.12429
 2. Saniya and Johnny: introduction, rest of us: timeline
 3. Finish indivudual paragraphs by Wednesday
 4. Finish literature review by Thursday: [Link to shared sheets](https://gtvault-my.sharepoint.com/:x:/g/personal/ssavla30_gatech_edu/EZYnl749yj5BsbG2dMM01woB20z7OMseI7b99zkw4pd5Hw?e=83fvha)
+  
+Meeting 2:  
+1. Assign detailed tasked to everyone
+2. Prepare for the slides and the presentation. 
 
 ### Week 7, Feb 24
 Guest speaker in class
